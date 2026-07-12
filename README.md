@@ -73,7 +73,7 @@ JanSetu serves two groups:
 
 - [ ] **Expo Track** – `[check if your mobile app was built with Expo]`
 - [x] **Neo4j Track** – Neo4j AuraDB is the primary database. Citizens, complaints, locations, and departments are modeled as a graph, which powers: automatic complaint routing to the correct department, 300m-radius clustering of related hazard reports, and graph-computed accountability/trust scores per department.
-- [x] **Base44 Track** – `[confirm what part of the product was built/deployed on Base44]`
+- [ ] **Base44 Track** – `[confirm what part of the product was built/deployed on Base44]`
 
 > Neo4j's graph model is central to JanSetu, not just a data store: relationships between entities (citizen → complaint → location → department) are what let us auto-cluster nearby hazards, auto-route complaints, and compute a department's trust score from its real resolution history rather than a static rating.
 
@@ -93,7 +93,7 @@ JanSetu serves two groups:
 ## 📽️ Demo & Deliverables
 
 - **Demo Video Link (Mandatory):** `[https://youtu.be/BZOYOU46RYU]`
-- **Deployment Link (Recommended):** `[Paste your live app URL here]`
+- **Deployment Link (Recommended):** `[https://jansetu-graph-ai.onrender.com]`
 - **Pitch Deck / PPT (Optional):** `[Paste link if you have one]`
 
 ---
