@@ -117,7 +117,9 @@ JanSetu serves two groups:
 - `[Any other env vars/API keys — e.g. maps API key]`
 
 ### Local Setup:
-```bash
+
+---bash
+
 # Clone the repo
 git clone <your-repo-url>
 cd <repo-folder>
